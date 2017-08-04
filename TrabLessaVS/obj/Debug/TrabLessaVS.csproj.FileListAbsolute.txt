@@ -1,1 +1,10 @@
 c:\users\pedro.castro\documents\visual studio 2015\Projects\TrabLessaVS\TrabLessaVS\bin\Debug\TrabLessaVS.exe.config
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\bin\Debug\TrabLessaVS.exe.config
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\bin\Debug\TrabLessaVS.exe
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\bin\Debug\TrabLessaVS.pdb
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\obj\Debug\TrabLessaVS.csprojResolveAssemblyReference.cache
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\obj\Debug\TrabLessaVS.Form1.resources
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\obj\Debug\TrabLessaVS.Properties.Resources.resources
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\obj\Debug\TrabLessaVS.csproj.GenerateResource.Cache
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\obj\Debug\TrabLessaVS.exe
+C:\Users\Pedro.Castro\Desktop\GitHub\TrabalhoLessa_4-8-17\TrabLessaVS\obj\Debug\TrabLessaVS.pdb
